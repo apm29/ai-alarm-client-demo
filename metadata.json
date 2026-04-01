@@ -1,0 +1,7 @@
+{
+  "name": "AI火焰报警系统",
+  "description": "AI火焰报警系统 - 实时监控、硬件配置和历史数据查询。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
